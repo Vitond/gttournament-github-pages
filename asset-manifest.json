@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.dd2d0db4.chunk.css",
-    "main.js": "/static/js/main.b8350115.chunk.js",
-    "main.js.map": "/static/js/main.b8350115.chunk.js.map",
+    "main.js": "/static/js/main.25ec9e98.chunk.js",
+    "main.js.map": "/static/js/main.25ec9e98.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b4831324.js",
     "runtime-main.js.map": "/static/js/runtime-main.b4831324.js.map",
-    "static/js/2.106cf53c.chunk.js": "/static/js/2.106cf53c.chunk.js",
-    "static/js/2.106cf53c.chunk.js.map": "/static/js/2.106cf53c.chunk.js.map",
+    "static/js/2.6bb36cb4.chunk.js": "/static/js/2.6bb36cb4.chunk.js",
+    "static/js/2.6bb36cb4.chunk.js.map": "/static/js/2.6bb36cb4.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.dd2d0db4.chunk.css.map": "/static/css/main.dd2d0db4.chunk.css.map",
-    "static/js/2.106cf53c.chunk.js.LICENSE.txt": "/static/js/2.106cf53c.chunk.js.LICENSE.txt",
+    "static/js/2.6bb36cb4.chunk.js.LICENSE.txt": "/static/js/2.6bb36cb4.chunk.js.LICENSE.txt",
     "static/media/counter-logo.4ca7c802.svg": "/static/media/counter-logo.4ca7c802.svg",
     "static/media/counter-wallpaper.4ca60fed.webp": "/static/media/counter-wallpaper.4ca60fed.webp",
     "static/media/discord-logo.0dbc33e0.svg": "/static/media/discord-logo.0dbc33e0.svg",
@@ -25,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b4831324.js",
-    "static/js/2.106cf53c.chunk.js",
+    "static/js/2.6bb36cb4.chunk.js",
     "static/css/main.dd2d0db4.chunk.css",
-    "static/js/main.b8350115.chunk.js"
+    "static/js/main.25ec9e98.chunk.js"
   ]
 }
